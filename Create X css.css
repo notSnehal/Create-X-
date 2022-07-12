@@ -1,0 +1,32 @@
+.heading{
+    text-align:center;
+    font-family:cursive;
+    font-weight: bold;
+    font-size: 60px;
+    color:antiquewhite;
+    padding-top: 40px;
+}
+.head{
+    background-color: rgb(68, 67, 67);
+    height: 160px;
+    background-image: url('binary.jpg');
+}
+.text{
+    text-align: center;
+    font-family: monospace;
+    font-size: 35px;
+    color: rgb(0, 162, 255);
+    font-weight: italic;
+}
+body{
+    background-color: rgb(36, 35, 35);
+}
+.container{
+    margin:10px;
+}
+.text2{
+    color: aqua;
+    font-size: 23px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
